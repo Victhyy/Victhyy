@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Victhyy
+- 👀 I’m interested in be a developer.
+- 🌱 I’m currently learning JavaScript.
+- 💞️ I’m looking to collaborate with community.
+- ⚡ Fun fact: I love kittens!
