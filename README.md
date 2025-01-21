@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Victhyy
+- 👋 Hi, I’m Victor.
 - 👀 I’m interested in be a developer.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate with community.
